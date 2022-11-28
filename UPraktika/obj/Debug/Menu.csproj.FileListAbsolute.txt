@@ -1,0 +1,10 @@
+C:\Users\Alish\source\repos\UPraktika\UPraktika\bin\Debug\UPraktika.exe.config
+C:\Users\Alish\source\repos\UPraktika\UPraktika\bin\Debug\UPraktika.exe
+C:\Users\Alish\source\repos\UPraktika\UPraktika\bin\Debug\UPraktika.pdb
+C:\Users\Alish\source\repos\UPraktika\UPraktika\obj\Debug\Menu.csproj.AssemblyReference.cache
+C:\Users\Alish\source\repos\UPraktika\UPraktika\obj\Debug\Menu.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alish\source\repos\UPraktika\UPraktika\obj\Debug\UPraktika.Properties.Resources.resources
+C:\Users\Alish\source\repos\UPraktika\UPraktika\obj\Debug\Menu.csproj.GenerateResource.cache
+C:\Users\Alish\source\repos\UPraktika\UPraktika\obj\Debug\Menu.csproj.CoreCompileInputs.cache
+C:\Users\Alish\source\repos\UPraktika\UPraktika\obj\Debug\UPraktika.exe
+C:\Users\Alish\source\repos\UPraktika\UPraktika\obj\Debug\UPraktika.pdb
