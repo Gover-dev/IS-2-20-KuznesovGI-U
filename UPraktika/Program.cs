@@ -16,7 +16,14 @@ namespace UPraktika
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Menu());
+            Application.Run(new MenuFrom());
         }
+
+    }
+
+    class ConnSql
+    {
+        public string connect = "server=chuc.caseum.ru;port=33333;user=uchebka;database=uchebka;password=uchebka;";
+    
     }
 }
