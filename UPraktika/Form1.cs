@@ -46,9 +46,9 @@ namespace UPraktika
         {
             private static T arti;
 
-            public int Numturn { get; set; }
-            public int Vol { get; set; }
-            public string Interf { get; set; }
+            public int Numturn;
+            public int Vol;
+            public string Interf;
 
             public Hdd(int pr, int drel, int mt, int vol, string itf) : base(pr, drel, arti)
             {

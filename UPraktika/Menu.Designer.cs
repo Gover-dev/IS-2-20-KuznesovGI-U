@@ -111,6 +111,7 @@
             this.button6.BackColor = System.Drawing.Color.Maroon;
             this.button6.Dock = System.Windows.Forms.DockStyle.Top;
             this.button6.Font = new System.Drawing.Font("Arial Narrow", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.button6.ForeColor = System.Drawing.Color.White;
             this.button6.Location = new System.Drawing.Point(0, 360);
             this.button6.Name = "button6";
             this.button6.Size = new System.Drawing.Size(314, 72);
