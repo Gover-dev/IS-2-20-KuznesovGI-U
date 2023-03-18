@@ -9,6 +9,6 @@ namespace UPraktika
 {
     internal class ConnBD
     {
-        public string connStr = "server=chuc.caseum.ru;port=33333;user=st_2_20_16;database=is_2_20_st16_KURS;password=79675933;";
+        public string connStr = "server=chuc.sdlik.ru;port=33333;user=st_2_20_16;database=is_2_20_st16_KURS;password=79675933;";
     }
 }
